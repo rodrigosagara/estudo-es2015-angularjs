@@ -4,7 +4,7 @@ const HtmlPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
-    entry: './app/app.component.js',
+    entry: './app/components/app.component.js',
     output: {
         path: path.join(__dirname, 'dist'),
         filename: 'bundle.js'

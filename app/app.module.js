@@ -4,8 +4,10 @@ import 'angular-route';
 import 'angular-resource';
 import 'angular-animate';
 import 'angularjs-toaster';
-
+import 'jquery';
+import 'popper.js'
 import './../node_modules/bootstrap/dist/css/bootstrap.css';
+import 'bootstrap';
 
 //modulo principal
 const App = angular.module('App', [
