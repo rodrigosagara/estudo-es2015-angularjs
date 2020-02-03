@@ -1,0 +1,11 @@
+{
+  "name": "estudo-es2015-angularjs",
+  "version": "1.0.0",
+  "description": "apenas um estudo e pratica sobre webpack, es6 e angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rodrigo santos sagara <rodrigo.sagara8@gmail.com> (http://montesis.com.br)",
+  "license": "MIT"
+}
