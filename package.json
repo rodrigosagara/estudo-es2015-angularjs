@@ -4,8 +4,28 @@
   "description": "apenas um estudo e pratica sobre webpack, es6 e angularjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "author": "rodrigo santos sagara <rodrigo.sagara8@gmail.com> (http://montesis.com.br)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "angular-animate": "^1.7.9",
+    "angular-resource": "^1.7.9",
+    "angular-route": "^1.7.9",
+    "angularjs-toaster": "^3.0.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.2"
+  }
 }
