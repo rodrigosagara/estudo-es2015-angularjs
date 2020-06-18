@@ -10,7 +10,7 @@
   "author": "rodrigo santos sagara <rodrigo.sagara8@gmail.com> (http://montesis.com.br)",
   "license": "MIT",
   "dependencies": {
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "angular-animate": "^1.7.9",
     "angular-resource": "^1.7.9",
     "angular-route": "^1.7.9",
